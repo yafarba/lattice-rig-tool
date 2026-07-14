@@ -1,12 +1,10 @@
 # Universal Lattice Rig Tool
 
-[![Gumroad](https://shields.io)](https://yafarba.gumroad.com/l/latticerigtool)
-
-![Universal Lattice Rig Tool Demo](lattice_rig_tool_demo.gif)
-
 **Version:** 1.0 (2026)  
 **License:** MIT (Free for educational, personal and commercial projects. If you use it, a credit is always appreciated.)  
 **Gumroad:** [Download for Free on Gumroad](https://yafarba.gumroad.com/l/latticerigtool)
+
+![Universal Lattice Rig Tool Demo](lattice_rig_tool_demo.gif)
 
 ---
 
